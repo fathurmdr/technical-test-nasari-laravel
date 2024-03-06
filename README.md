@@ -24,5 +24,5 @@ The application will be accessible on your web browser at [localhost:8000](http:
 
 ## Application URLs
 
-- [Login Page](http://localhost:8000/login): You login using email `budi@nasari.com` and password `budipassword`.
+- [Login Page](http://localhost:8000/login): You can login using email `budi@nasari.com` and password `budipassword`.
 - [Home Page](http://localhost:8000/)
