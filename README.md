@@ -17,12 +17,12 @@ Follow these steps in your terminal:
 
 1. Run `composer install`
 2. Execute `php artisan migarte --seed`
-3. Run `yarn && yarn build` (ensure you have globally installed Yarn by running `npm install --global yarn`)
-4. Execute `php artisan serve`
+3. Execute `yarn && yarn build` (ensure you have globally installed Yarn by running `npm install --global yarn`)
+4. Run `php artisan serve`
 
 The application will be accessible on your web browser at [localhost:8000](http://localhost:8000).
 
 ## Application URLs
 
 - [Login Page](http://localhost:8000/login): You login using email `budi@nasari.com` and password `budipassword`.
-- [Hom Page](http://localhost:8000/)
+- [Home Page](http://localhost:8000/)
